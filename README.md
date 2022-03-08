@@ -5,4 +5,4 @@
 Welcome
 Hello World
 
-[lorem ipsum] (http://google.com)
+[lorem ipsum](http://google.com)
