@@ -1,6 +1,6 @@
-# Deneme
+# Test
 
-## Alt Bilgi
+## Information
 
 Welcome
 Hello World
